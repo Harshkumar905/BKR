@@ -20,9 +20,9 @@ const Signup = ({navigation}) => {
           className="w-40 h-36 mt-5 mx-auto px-auto "
           resizeMode="center"
         />
-        <Text className="text-center font-bold text-3xl mt-2">Bekaar Ko</Text>
-        <Text className="text-center font-bold text-3xl">Aakaar</Text>
-        <Text className="text-center font-bold text-5xl mt-32">Sign Up</Text>
+        <Text className="text-center font-bold text-3xl mt-2 text-blue-900">Bekaar Ko</Text>
+        <Text className="text-center font-bold text-3xl text-green-700">Aakaar</Text>
+        <Text className="text-center font-bold text-4xl mt-32">Sign Up</Text>
         <Text className="text-center font-medium text-base mb-5">
 
           Continue with Mail
